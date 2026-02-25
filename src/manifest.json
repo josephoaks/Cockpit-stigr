@@ -1,0 +1,26 @@
+{
+  "menu": {
+    "index": {
+      "label": "STIGR",
+      "order": 80,
+      "keywords": [
+        {
+          "matches": [
+            "stig",
+            "stigr",
+            "compliance",
+            "scap",
+            "oscap",
+            "disa",
+            "audit",
+            "benchmark",
+            "hardening"
+          ]
+        }
+      ]
+    }
+  },
+  "requires": {
+    "superuser": true
+  }
+}
