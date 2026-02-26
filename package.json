@@ -1,5 +1,6 @@
 {
   "name": "stigr",
+  "version": "0.1.0",
   "description": "Scaffolding for a cockpit module",
   "type": "module",
   "main": "index.js",
